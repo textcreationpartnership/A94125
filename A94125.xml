@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supply of prayer for the ships of this kingdom that want ministers to pray with them: agreeable to the directory established by Parliament. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94125</idno>
+            <idno type="STC">Wing S6191</idno>
+            <idno type="STC">Thomason E284_16</idno>
+            <idno type="STC">ESTC R200062</idno>
+            <idno type="EEBO-CITATION">99860866</idno>
+            <idno type="PROQUEST">99860866</idno>
+            <idno type="VID">158499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E284[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supply of prayer for the ships of this kingdom that want ministers to pray with them: agreeable to the directory established by Parliament. Published by authority.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Field, and are to be sold at his house upon Addle-hill.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 16: 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Travelers --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158499:1" rendition="simple:additions"/>
+            <p>
+               <hi>A S<g ref="char:V">Ʋ</g>PPLY</hi> OF PRAYER For the Ships of this KINGDOM That want MINISTERS to Pray with them: AGREEABLE TO THE DIRECTORY Eſtabliſhed by <hi>PARLIAMENT.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <add>May 16:</add> LONDON: Printed for <hi>Iohn Field,</hi> and are to be ſold at his houſe upon Addle-hill. <add>1645</add>
+            </p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:158499:2"/>
+            <pb n="3" facs="tcp:158499:2"/>
+            <head>A Reaſon of this <hi>Work.</hi>
+            </head>
+            <p>WHereas there are thouſands of ſhips belonging to this Kingdom, which have not Miniſters with them to guide them in Prayer, and therefore either uſe the old Form of Common-Prayer, or no Prayer at all; The former whereof for many weighty Reaſons hath been aboliſh<g ref="char:EOLhyphen"/>ed, and the latter is likely to make them ra<g ref="char:EOLhyphen"/>ther Heathens then Chriſtians (the Lords day being left without any mark of Piety or Devotion) Therefore, to avoid theſe Inconveniences, It hath been thought fit to frame ſome Prayers, agreeing with the Directory eſtabliſhed by Parliament; It being hoped, that it will be no grief of heart
+<pb n="4" facs="tcp:158499:3"/>to wiſe and full Chriſtians, if the thirſty drink out of Ciſterns, when themſelves drink out of Fountains; But they will ra<g ref="char:EOLhyphen"/>ther pity the wants of their needy Bre<g ref="char:EOLhyphen"/>thren, and out of Compaſſion immitate him who filleth the hungry with good things.</p>
+            <p>Theſe Prayers being enlivened and ſent up by the Spirit in him that prayeth, may be lively Prayers and acceptable to him who is a Spirit, and accepts of ſervice in Spirit and Truth. And, in truth, though Prayers come never ſo new, even from the Spirit, in one that is a guide in Prayer, if the Spirit do not quicken and enliven that Prayer in the Hearer that follows him, it is to him but a dead Form, and a very carcaſe of Prayer.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer_sequence">
+            <pb n="5" facs="tcp:158499:3"/>
+            <stage>The Company being aſſembled, they may thus begin with Prayer:</stage>
+            <p>
+               <seg rend="decorInit">O</seg> Lord, in all reverence and humility, we acknowledge thy incomprehenſible Greatneſſe and Majeſty, in whoſe pre<g ref="char:EOLhyphen"/>ſence we do now in a ſpeciall manner appear, and our own vileneſſe and un<g ref="char:EOLhyphen"/>worthineſſe, to approach ſo neer thee; with our utter inability of out ſelves, to ſuch a holy duty. And we humbly beſeech thee for pardon, aſſi<g ref="char:EOLhyphen"/>ſtance, and acceptance, in the whole ſervice now to be performed, and for a Bleſſing on the particular portions of thy Word now to be read, and all in the Name and Mediation of the Lord Jeſus Chriſt; In whoſe name and words wee pray unto thee far<g ref="char:EOLhyphen"/>ther, ſaying,<lb/>
+               <hi>Our Father,</hi> &amp;c.</p>
+            <stage>After this, ſome Pſalms and Chapters being read out of both Teſtaments (but none out of thoſe Books which are commonly called <hi>Apocrypha</hi>) and a Pſalm being ſung, a Prayer may follow in this manner:</stage>
+            <p>O Great and gracious Lord, we acknowledge be<g ref="char:EOLhyphen"/>fore thee our ſinfulneſſe, firſt, by reaſon of Ori<g ref="char:EOLhyphen"/>ginall
+<pb n="6" facs="tcp:158499:4"/>ſin, which (beſides the guilt of it, which makes us lyable to eternall damnation) is the ſeed of all other ſins, and hath depraved and poyſoned all the faculties and powers of ſoul and body, and doth defile our beſt actions, and (were it not reſtrained, or our hearts re<g ref="char:EOLhyphen"/>newed by Grace) would break forth into innumerable Tranſgreſſions, and the greateſt Rebellions againſt the Lord, that ever were committed by the vileſt of the ſons of men. And next, we acknowledge the guilt of Actuall ſins, our own ſins, the ſins of Magiſtrates, of Miniſters, and of the whole Nation, unto which we are many wayes acceſſary; Which ſins of ours re<g ref="char:EOLhyphen"/>ceive many fearfull aggravations, we having broken all the Commandements of the holy, juſt, and good Law of God, doing that which is forbidden, and leaving undone what is enjoyned; and that not onely out of ignorance and infirmity, but alſo more preſum<g ref="char:EOLhyphen"/>ptuouſly, againſt the light of our mindes, checks of our conſciences, and motions of thy holy Spirit to the contrary, ſo that we have no cloak for our ſins; yea we have not onely deſpiſed the riches of Gods good<g ref="char:EOLhyphen"/>neſſe, forbearance, and long-ſuffering, which ſhould leade us to Repentance, and Holineſſe; but have ſtood out againſt many invitations, and offers of Grace in the Goſpel, not endeavouring as we ought, to re<g ref="char:EOLhyphen"/>ceive Chriſt into our hearts by Faith, or to walk worthy of him in our lives. We bewail our blind<g ref="char:EOLhyphen"/>neſſe of minde, hardneſſe of heart, unbelief, impeni<g ref="char:EOLhyphen"/>tency, ſecurity, luke warmneſſe, barrenneſſe, our not endeavouring after Mortification, and newneſſe of life; nor after the exerciſe of Godlineſſe in the power thereof; and that the beſt of us have not ſo ſtedfaſtly
+<pb n="7" facs="tcp:158499:4"/>walked with God, kept our Garments ſo unſpotted, nor been ſo zealous of thy glory, and the good of others as wee ought, notwithſtanding the manifold and great mercies of thee our God, the love of Chriſt, the light of the Goſpel, and Reformation of Religion, our own Purpoſes, Promiſes, Vows, Solemn Cove<g ref="char:EOLhyphen"/>nants, and other ſpeciall obligations to the contrary. We acknowledge and confeſſe, that as we are con<g ref="char:EOLhyphen"/>vinced of our guilt, ſo out of a deep ſenſe thereof, we judge our ſelves unworthy of the ſmalleſt benefits, moſt worthy of thy fierceſt wrath, and of all the curſes of the Law, and heavieſt judgements inflicted upon the moſt Rebellious ſinners; and that thou mighteſt moſt juſtly take thy Kingdom and Goſpel from us, plague us with all ſorts of Spirituall and Temporall judgements in this life, and after caſt us into utter darkneſſe, in the Lake that burneth with Fire and Brimſtone, where is weeping and gnaſhing of Teeth for evermore. Notwithſtanding all which, we draw neer to the Throne of Grace, encouraging our ſelves, with hope of a gracious anſwer of our Prayers, in the Riches and All-ſufficiency of that onely one Oblation, the ſatisfaction and Interceſſion of the Lord Jeſus Chriſt, at the right hand of his Father, and our Father; and in confidence of the exceeding great and precious promiſes of Mercy and Grace in the new Covenant, through the ſame Me<g ref="char:EOLhyphen"/>diator thereof. And we pray thee, for his ſake, to turn away thy heavie wrath and curſe from us, which we are not able to avoid or bear; and humbly and earneſtly beſeech thee, out of thy free Grace and Mercy, to grant unto us the full Remiſſion of all our
+<pb n="8" facs="tcp:158499:5"/>ſins, and that onely for the bitter ſufferings, and pre<g ref="char:EOLhyphen"/>cious merits of that our onely Saviour Jeſus Chriſt. O that the Lord would vouchſafe to ſhed abroad his love in our hearts by the holy Ghoſt, to ſeal unto us by the ſame Spirit of Adoption, the full aſſurance of our Pardon and Reconciliation, That he would com<g ref="char:EOLhyphen"/>fort all that mourn in Zion, ſpeak peace to the wounded and troubled ſpirits, and binde up the bro<g ref="char:EOLhyphen"/>ken hearted; And as for ſecure and preſumptuous ſinners, Lord open their eyes, convince their conſci<g ref="char:EOLhyphen"/>ences, and turn them from darkneſſe unto light, and from the power of Satan unto God, that they alſo may receive forgiveneſſe of ſin, and an inheritance among them that are ſanctified by Faith in Chriſt Je<g ref="char:EOLhyphen"/>ſus. With remiſſion of ſins through the blood of Chriſt, we pray thee alſo to give us Sanctification by his Spirit; Mor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ification of ſin dwelling in us, and many times tyrannizing over us; the quickning of our dead Spirits with the life of God in Chriſt; Grace to fit and enable us for all duties of converſation and callings towards God and Man; ſtrength againſt tem<g ref="char:EOLhyphen"/>ptations, the ſanctified uſe of Bleſſings and Croſſes, and perſeverance in Faith and Obedience to our lives end, through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="various_prayers">
+            <pb n="9" facs="tcp:158499:5"/>
+            <div type="prayer_for_Church_and_kingdom">
+               <head>A Prayer for the Church Vniverſall, and our United Churches and Kingdoms.</head>
+               <p>O Lord, who doeſt gather to thy ſelf a Church out of all Nations, we beſeech thee, to this end to Pro<g ref="char:EOLhyphen"/>pagate thy Goſpel and the Kingdom of Chriſt Jeſus to all Nations, convert the Jews, fill up the fulneſſe of the Gen<g ref="char:EOLhyphen"/>tiles, haſten the fall of Antichriſt, and the ſecond coming of our Lord; Grant deliverance to the diſtreſſed Churches abroad from the Tyranny of the Antichriſtian Faction, and from the cruell oppreſſions and blaſphemies of the Turke: We pray thee ſend thy Bleſsing upon all the Reformed Churches, eſpecially upon the Churches and Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> now more ſtrictly, and Religiouſly united in the Solemne League and Covenant: We pray thee for our Plantati<g ref="char:EOLhyphen"/>ons in the remote parts of the world, more particularly for that Church and Kingdom whereof we are Mem<g ref="char:EOLhyphen"/>bers, that therein God would eſtabliſh Peace and Truth, the Purity of all his Ordinances, and the power of godli<g ref="char:EOLhyphen"/>nes; prevent and remove Hereſie, Schiſme, Prophaneneſs, Superſtition, ſecurity, and unfruitfulneſſe under the means of Grace; heal our rents and diviſions, and preſerve us from breach of our Solemn Covenant. We pray thee for all in Authority, eſpecially for the Kings Majeſty, that God would make him rich in Bleſſings, both in his Per<g ref="char:EOLhyphen"/>ſon and Government; Eſtabliſh his Throne in Religion and Righteouſneſſe, ſave him from evil Counſell, and make him a bleſſed and glorious Inſtrument for the con<g ref="char:EOLhyphen"/>ſervation and propagation of the Goſpel, for the in<g ref="char:EOLhyphen"/>couragement and protection of them that do well, the ter<g ref="char:EOLhyphen"/>rour of all that do evil, and the great good of the Church of Chriſt, and of theſe United Kingdoms. We pray thee
+<pb n="10" facs="tcp:158499:6"/>convert the Queen, give a Religious Education to the Prince, and the reſt of the Royall Seed; comfort the af<g ref="char:EOLhyphen"/>flicted Queen of <hi>Bohemia,</hi> Siſter to our Soveraign: We pray thee for the Reſtitution and Eſtabliſhment of the il<g ref="char:EOLhyphen"/>luſtrious Prince, The Elector Palatine of the <hi>Rhene,</hi> to all his Dominions and Dignities: Bleſſe the High Court of Parliament, the Nobility, the ſubordinate Judges and Magiſtrates, the Gentry, and all the Commonalty: Bleſſe all Paſtors and Teachers, O Lord, fill them with thy ſpi<g ref="char:EOLhyphen"/>rit, and make them exemplarily holy, ſober, juſt, peaceable, and gracious in their lives; ſound, faithfull, and powerfull in their Miniſtry, and follow all their labours with abun<g ref="char:EOLhyphen"/>dance of ſucceſſe and bleſſing; And give unto all thy People, Paſtors according to thy own heart: Bleſſe the Univerſities, and all Schools, and Religious Seminaries of Church and Common-wealth, that they may flouriſh more and more in Learning and Piety. Powre out a bleſ<g ref="char:EOLhyphen"/>ſing upon the Miniſtery of the Word, Sacraments, and Diſcipline; give thy mercy and conſolation, to the af<g ref="char:EOLhyphen"/>flicted under any inward or outward diſtreſſe; Lord, give unto us ſeaſonable Weather, and Fruitfull Seaſons: Lord, turne away thy Judgements, that we feel or fear, or are liable unto, whether Famine, Peſtilence, Sword, or any other. With all outward means of ſalvation, be gra<g ref="char:EOLhyphen"/>ciouſly pleaſed to powre out the ſpirit of Grace into our hearts, cauſing us to attaine ſuch a meaſure of the Excel<g ref="char:EOLhyphen"/>lency of the knowledge of Chriſt Jeſus our Lord, and in him of the things which belong to our Peace, that we may account all things but as dung in compariſon of him; and that we taſting the firſt fruits of the glory that is to be revealed, may long for a more full and perfect Commu<g ref="char:EOLhyphen"/>nion with him, that where he is we may be alſo, and en<g ref="char:EOLhyphen"/>joy the fulneſſe of thoſe joyes and pleaſures which are at
+<pb n="11" facs="tcp:158499:6"/>thy Right hand for evermore; and all this through the ſame Chriſt Jeſus, our onely Mediator and Advocate, Amen.</p>
+               <stage>After this Prayer, a Pſalm may be ſung, and the concluſion may be with a Thankſgiving and Bleſsing.</stage>
+            </div>
+            <div type="prayer_of_thanksgiving">
+               <head>The Thankſgiving.</head>
+               <p>VVE give thee thanks, moſt gracious Father, the Fountain of every good and perfect gift, for all thy bleſſings, both Spirituall and Temporall; eſpecially, for thy great love, in ſending thy Son Chriſt Jeſus unto us; for the Communication of thy holy ſpirit, for the light and liberty of thy glorious Goſpel, and the rich heavenly bleſſings revealed therein, as namely, our E<g ref="char:EOLhyphen"/>lection, Vocation, Adoption, Juſtification, Sanctification, and hope of glory; for the admirable goodneſſe of God in freeing the land from Antichriſtian darkneſſe and Ty<g ref="char:EOLhyphen"/>ranny, and for all other Nationall deliverances: We bleſſe thee for the Reformation of our Religion, our con<g ref="char:EOLhyphen"/>tinuall preſervation, and for many other Temporall bleſ<g ref="char:EOLhyphen"/>ſings. We pray thee for the continuance of all thy favours and bleſſings, and particularly of thy Goſpel, and all the Ordinances thereof, in their purity, power, and liberty: We pray thee make thy word powerfull, that it may abide in our hearts, and bring forth fruit in our live, and conver<g ref="char:EOLhyphen"/>ſations. We beſeech thee fit and prepare us for death, and judgement, and that we may watch for the coming of our Lord Ieſus Chriſt: We intreat thee forgive the i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iquity of our holy things, and accept of our Spirituall ſacrifi<g ref="char:EOLhyphen"/>ces, through the merit and mediation of our great High Prieſt and Saviour, the Lord Chriſt Jeſus, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer_for_a_blessing">
+               <pb n="12" facs="tcp:158499:7"/>
+               <head>Prayer for a Bleſsing.</head>
+               <p>THE Lord bleſſe us, and keep us; the Lord make his face to ſhine upon us, and be gracious unto us; the Lord lift up his countenance upon us, and give us his Peace; And the very God of Peace, ſanctifie us wholly, that our whole ſpirit, ſoul, and body, may be preſerved blameleſſe unto the coming of our Lord Ieſus Chriſt: And the grace of our Lord Ieſus Chriſt, and the love of God the Father, and the Communion of the Holy Ghoſt be with us all, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer_for_seafarers">
+               <head>A Prayer particularly fitted for thoſe that travell upon the Seas.</head>
+               <p>O Lord, who art the hope of the ends of the Earth, and of thoſe that are upon the wide Sea, by whoſe Providence men go down to the Sea in Ships, and follow buſineſſe in great Waters, we pray thee to take both Ship and perſons under thy protection and preſerva<g ref="char:EOLhyphen"/>tion; and let a bleſſing come from thee upon our buſi<g ref="char:EOLhyphen"/>neſſes and endeavours. And, Lord, though we by our ſins have deſerved rather curſes then bleſſings, yet we pray thee to deal with us, not according to our ſins and our own deſervings, but according to thy infinite free mercy, and the merits of thy ſon Chriſt Jeſus, which are of an infinite value. Behold us in him, we beſeech thee, in whom thou art well pleaſed, and in him be well pleaſed with us. And, Lord, we pray thee that he may be unto us not onely juſtification from the guile of ſin, but ſanctifi<g ref="char:EOLhyphen"/>cation to deliver us from the power and ſervice of ſin;
+<pb n="13" facs="tcp:158499:7"/>that we may be partakers of his Holineſſe, without which no man ſhall ſee thee. And, Lord, while we are upon the Seas, cauſe us to take notice of thy great works, for thou haſt made the Sea, and therein creatures innumerable, both ſmall and great; And while wee behold things created by thee, let our hearts be lifted up to thee who haſt created them; to worſhip thee, to love thee, and to ſerve thee; by whom, and for whom all things were created. Keep us, Lord, from ſtorms and tempeſts, and if they ſhall ariſe, let thy word come forth, and turn the ſtorm into a calm, make the Waters ſtill, and bring us in good ſeaſon, to the Haven of our deſires. In the mean time, preſerve us alſo from Sea-thieves, Enemies, and other dangers to which our Voyages are ſubject; And, Lord, when thou ſhalt preſerve us, and bring us home in ſafety, give us grace to be truly and really thankfull to thee, and to expreſſe our Thankfulneſſe in a holy life and converſation; that we may ſerve, and pleaſe thee, who preſerveſt us. And let not thy often preſervations of us, make us the leſſe ſenſible of them, but rather the more thankfull to thee for them; For, Lord we confeſſe, ſuch is the corruption of our nature, that when we often paſſe through dangers, and eſcape them, we take leſſe notice of thy gracious providence and preſervation in them; whereas we ſhould be the more thankfull to thee, the more thou multiplieſt thy favours upon us. But, Lord, yet very far be it from us, upon our returns to return to folly and ſin, and that we, whom thou preſerveſt, ſhould offend thee by ſinfull courſes, in ſtead of ſerving thee, and being thankfull to thee; For, then mayeſt thou juſtly come upon us by thy judgements, in an hour which we think not on, and let in the Seas and other dangers upon us, to ſwallow us up and devoure us, and after give us our portion in a
+<pb n="14" facs="tcp:158499:8"/>Lake of Fire that burneth for evermore; But, Lord, we pray thee to guide us ever by thy grace, and not to leave us to our ſelves and our own corruptions, but through all the paſſages of this our pilgrimage, both upon Sea and Land, leade us by thy good Spirit, and bring us at laſt to the true Haven of Bleſſedneſs and place of reſt, which is above in thy preſence, where is fulneſſe of joy, and where are pleaſures for evermore. Hear us, O Lord, and accept our perſons and prayers, through thy beloved ſon Chriſt Jeſus, who, ſitting at thy right hand, makes interceſſion for us; to whom with the Almighty Father, and the moſt bleſſed and holy Spirit, be all honour, ſervice and praiſe, from this time forth for evermore, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer_against_storms">
+               <head>A Prayer in a Storm.</head>
+               <p>O Lord, we acknowledge, that by thy own Providence and will, this ſtorm is now come upon us; for thy Word hath taught us, that thou commandeſt and raiſeſt the ſtormy Winds which lift up the waves of the Sea, ſo that they mount up to the Heaven, and go down again to the Depths and the ſouls of men are melted becauſe of trouble, and they are at their wits ends. And, Lord, we confeſſe that we have ſins enough to draw down all thy ſtorms upon us, and to overwhelm us with all thy waves: But, Lord, we beſeech thee to make our hearts to ſearch themſelves, as for all ſins, ſo for thoſe eſpecially which may draw down this great Tempeſt upon us; and let us caſt out theſe ſins as the Marrine<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> caſt out <hi>Jonah,</hi> and let the wind and Sea ceaſe from their raging. And, Lord, we pray thee that we may ſo caſt them out, that we may ne<g ref="char:EOLhyphen"/>ver take them in again, leſt greater ſtorms overtake us;
+<pb n="15" facs="tcp:158499:8"/>For we acknowledge, that where ſin is, there muſt ſtorms be expected; Storms and Tempeſts, Fire and Brimſtone are the portion of ſinners; grant us alſo ſuch grace, that we may not only hate our ſins and caſt them out, becauſe they are followed with ſtorms and Iudgements; but be<g ref="char:EOLhyphen"/>cauſe they are odious in themſelves, being contrary to thy Righteous Law, and to thee who art the Fountain and Rule of Righteouſneſſe. And, Lord, let us alſo take thy Son Chriſt Jeſus into our ſouls to ſanctifie them, and Raign in them, remembring alſo that Chriſt Jeſus makes a Calm in the ſouls where he Raigns, for being juſtified by him, we have Peace with God; and he alſo when he was here below, being in the Ship, made a calm there al<g ref="char:EOLhyphen"/>ſo, and commanded the winds to be ſtill: Lord, we pray thee, grant at this time both theſe calms unto us; for as thy Word told us, that when thou commandeſt, a ſtorm ariſeth, ſo it alſo ſheweth us, that when men cry to thee in their trouble, thou bringeſt them out of their diſtreſſe, thou makeſt the ſtorm a calm, and the waves of the Sea are ſtill then are men glad becauſe they be quiet, and thou bringeſt them to their deſired Haven. Lord, we be<g ref="char:EOLhyphen"/>ſeech thee, let it be now to thy ſervants according to this thy Word, and then let that alſo be done which juſtly followeth: Let us Praiſe the Lord for his goodneſſe, and his wonderfull workes to the ſons of men; Let us Exalt thee in the Congregation of the People, and Praiſe thee in the Aſſembly of the Elders: And if the Heathen Mar<g ref="char:EOLhyphen"/>riners which carryed <hi>Jonah,</hi> being delivered from the ſtorm, did fear the Lord exceedingly, and offered Sacri<g ref="char:EOLhyphen"/>fice to the Lord, and made Vows; Let us much more who have the light of the Goſpel in ſo great a meaſure be<g ref="char:EOLhyphen"/>yond them, fear thee greatly, and offer to thee the Sacri<g ref="char:EOLhyphen"/>fices of Praiſe, and make Vows of better Obedience:
+<pb n="16" facs="tcp:158499:9"/>And, Lord, having made ſuch Vows, aſſiſt us by thy grace that we may perform them; and cauſe us all our lives to carry with us, and in us, the ſame thoughts and reſoluti<g ref="char:EOLhyphen"/>ons of holineſſe and good Converſation, which we have when we are in a ſtorm, and not obey thee worſe after de<g ref="char:EOLhyphen"/>liverances, then we reſolved to do in dangers. And, Lord, how ſoever thou ſhalt pleaſe to diſpoſe of us, we do here caſt our ſelves down under thy Mighty hand; We ſub<g ref="char:EOLhyphen"/>mit our ſelves to thee, as the clay to the Potter, to do with us what is good in thy fight; for thou haſt promiſed that all ſhall turn to good to thoſe whom thou haſt choſen: And haſt further ſhewed us, that neither life nor death can ſeparate us from thy love that is in Chriſt Jeſus; Let it be ſo unto thy ſervants, let thy love alwayes be towards us in Chriſt Jeſus the Son of thy Love: Whatſoever Iudgements fall on our bodies, let our ſouls be ſaved by the Lord Jeſus; Let us ſo be knit unto him by a lively Faith, that we may be partakers of him, and in him, of life Eternall: And having a ſure hope and confidence here<g ref="char:EOLhyphen"/>of, let us deſire to be diſſolved and to be with Chriſt, which is beſt of all; and at our diſſolution, ſpeak with aſſurance to be heard, Lord Ieſus Receive our Spirits: Hear us, O Lord, and grant us our Petitions, and whatſo<g ref="char:EOLhyphen"/>ever thy wiſdom knows to be beſt for us, which is far be<g ref="char:EOLhyphen"/>yond all that we can ask or think, and all for the ſake of thy Son and our bleſſed Saviour, through whom alone we and our Prayers have acceſſe unto thee; to whom with thy G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orious ſelf, and moſt Holy Spirit, be all Honour and Glory, Praiſe and Thankſgiving, Service and Obe<g ref="char:EOLhyphen"/>dience, from this time forth, and for evermore, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
